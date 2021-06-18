@@ -2,9 +2,10 @@
 
 
  ![coverage](https://img.shields.io/badge/Purpose-Teaching-blue)
-![coverage](https://img.shields.io/badge/Language-Python%203.8-green)
-![coverage](https://img.shields.io/badge/License-MIT-red)
+![coverage](https://img.shields.io/badge/Language-Python%203.8-red)
+![coverage](https://img.shields.io/badge/License-MIT-brightgreen)
 ![coverage](https://img.shields.io/badge/Build-passing-yellow)
+![coverage](https://img.shields.io/badge/Rating-5\5-orange)
 
 This is a repository to accompany the module 'An Introduction to Social Data Science', running _online_ from Monday 9th of August until Tuesday the 24th of August, inclusive. This `readme.md` file represents the "Module Handbook", and contains all of the information you need to know about the course. You should clone this repository some time around Monday the 9th of August.
 
