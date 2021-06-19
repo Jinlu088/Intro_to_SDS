@@ -75,11 +75,11 @@ The course will be assessed in two components.
 
 -------
 
-The course will run for ten sessions. They will begin at 10am BST, and run until about 12:00/12:10pm. Each session will have a series of exercises and a homework built into it, and at the start of each session, we will quickly review the homework from the previous day. The sessions are primarily ran out of ipython notebooks, but some will also incorporate lecture slides where appropriate. The schedule for the ten sessions is as follows;
+The course will run for ten sessions. They will begin at 10am BST, and run until about 12:00/12:10pm. Each session will have a series of exercises and a homework built into it, and at the start of each session, we will quickly review the homework from the previous day. The sessions are primarily ran out of ipython notebooks, but some will also incorporate lecture slides where appropriate. All lecture materials are structured corresponding to the day which they relate (e.g. section 4 of the 7th day is section 7.4). The schedule for the ten sessions is as follows;
   
- 1. **An Introduction to Python: Part One.** A review of object types, control statements, file operators, and functions.
- 2. **An Introduction to Python: Part Two.** A review of some key libraries for social data science, including numpy, pandas, matplotlib, requests and statsmodels.
- 3. **An Introduction to Open Science and Reproducible Research**. Bash, TeX, and Git. 
+ 1. **An Introduction to Python: Part One.** A review of object types, control statements, file operators.
+ 2. **An Introduction to Python: Part Two.** A review of advanced control statements, error handling, logging, custon functions.
+ 3. **An Introduction to Key SDS Libraries: calcuating, visualising, scraping and more** A review of some key libraries for social data science, including numpy, pandas, matplotlib (and seaborn), requests and statsmodels.
  4. **An Introduction to Machine Learning: Part One.** From linear models to random forests and support vector machines, all using scikitlearn.
  5. **An Introduction to Machine Learning: Part Two.** Various examples, and the Fragile Families Challenge.
  6. **An Introduction to Natural Language Processing: Part One.** NLTK, categorizing and tagging words, classifying text, extracting information.
