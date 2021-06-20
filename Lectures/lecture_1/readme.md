@@ -15,4 +15,4 @@ In this first lecture we'll introduce the basics of Python;
   3.) Strings\
   4.) Types of numbers\
   5.) Basic collections (tuples, sets, lists, dictionaries)\
-  6.) Loops\
+  6.) Loops
