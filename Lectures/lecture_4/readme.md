@@ -10,10 +10,10 @@
 
 In this lecture we'll give an introduction to Machine Learning. We'll talk about;
 
-  1.) Moving from $\hat{beta}$ to $\hat{y}$
-  2.) The form of predictive problems.
-  3.) Feature Engineering
-  4.) Cross Validation
-  5.) Model set selection (best subset, forward and backward)
-  6.) An introduction to Tree-based methods
-  7.) Support Vector Machines and Classifiers
+  1.) Moving from $\hat{beta}$ to $\hat{y}$\
+  2.) The form of predictive problems.\
+  3.) Feature Engineering\
+  4.) Cross Validation\
+  5.) Model set selection (best subset, forward and backward)\
+  6.) An introduction to Tree-based methods\
+  7.) Support Vector Machines and Classifiers\
