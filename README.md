@@ -26,7 +26,7 @@ This is a repository to accompany the module 'An Introduction to Social Data Sci
 
 -------
 
-Later in the course we’ll use the Fragile Families and Wellbeing Study. **Please sign up for a copy now!** This is __IMPERATIVE!__ Steps to do this:
+Later in the course we’ll use the Fragile Families and Child Wellbeing Study. **Please sign up for a copy now!** This is __IMPERATIVE!__ Steps to do this:
 1. Create an account at Princeton University’s OPR data archive
 2. Read the Overview of FFCWS.
 3. Click to ‘Sign Up‘.
