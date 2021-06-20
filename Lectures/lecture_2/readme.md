@@ -10,9 +10,9 @@
 
 In this first lecture we'll introduce the basics of Python;
 
-  1.) List iterations
-  2.) Control statements
-  3.) User defined functions
-  4.) System arguments
-  5.) File I/O
-  6.) Python outside of Jupyter Notebooks
+  1.) List iterations\
+  2.) Control statements\
+  3.) User defined functions\
+  4.) System arguments\
+  5.) File I/O\
+  6.) Python outside of Jupyter Notebooks\
