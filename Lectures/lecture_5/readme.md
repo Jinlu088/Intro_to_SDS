@@ -1,4 +1,4 @@
-#  :bar_chart: :chart_with_upwards_trend: An Introduction to SDS: Lecture Four :chart_with_downwards_trend: :bar_chart:	
+#  :bar_chart: :chart_with_upwards_trend: An Introduction to SDS: Lecture Five :chart_with_downwards_trend: :bar_chart:	
 
 
 ![coverage](https://img.shields.io/badge/Purpose-Teaching-blue)
