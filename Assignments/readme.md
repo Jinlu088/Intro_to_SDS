@@ -7,4 +7,4 @@
 ![coverage](https://img.shields.io/badge/Rating-5\5-orange)
 ---
 
-See the two markdown files for details of each assignment. The group 'peer review' presentations (25% pass, 0% fail) will take place on Tuesday August the 24th. Your attempt at the 'Fragile Families Challenge' should be submitted by xyz (75%, continuous markscheme).
+See the two markdown files for details of each assignment. The group 'peer review' presentations (25% pass, 0% fail) will take place on Tuesday August the 24th. Your individual projects should be submitted by xyz (75%, continuous markscheme).
