@@ -8,7 +8,7 @@
 ![coverage](https://img.shields.io/badge/Rating-5\5-orange)
 ---
 
-This assignment is reserved for your 'Group Peer Review' presentations.
+This session is reserved for your 'Group Peer Review' presentations.
 
 For more information, see the [Assignments](https://github.com/crahal/Intro_to_SDS/tree/main/Assignments) subdirectory. The timing\schedule for this day will be as follows;
 
