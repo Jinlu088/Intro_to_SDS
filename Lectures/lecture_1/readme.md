@@ -10,9 +10,9 @@
 
 In this first lecture we'll introduce the basics of Python;
 
-  1.) Object types
-  2.) Encoding
-  3.) Strings
-  4.) Types of numbers
-  5.) Basic collections (tuples, sets, lists, dictionaries)
-  6.) Loops
+  1.) Object types\
+  2.) Encoding\
+  3.) Strings\
+  4.) Types of numbers\
+  5.) Basic collections (tuples, sets, lists, dictionaries)\
+  6.) Loops\
