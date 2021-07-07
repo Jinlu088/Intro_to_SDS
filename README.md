@@ -63,7 +63,7 @@ The course will be assessed in two components.
 
 1.  The first will be a project related to a specific part of the course. This may or may not involve the Fragile Families Child and Wellbeing Study data descrribed above. This is individual work and will contribute 75% of the mark. It should also be submitted as an `.ipynb` file.
 
-2. The second will be a group presentation of a 'peer review', where we split into five or six groups. Presentations will be on the final day of the the class, and should be between 10-15 minutes. The objective is to introduce, describe, and critically assess an assigned public paper. It contributes 25% of the credit, and marks are awarded either as either a pass (full 25%) or fail (0%).
+2. The second will be a group presentation of a 'peer review', where we split into five or six groups. Presentations will be on the final day of the the class, and should be between 10-15 minutes. The objective is to introduce, describe, and critically assess an assigned public paper. It contributes 25% of the credit, and marks are awarded as either a pass (full 25%) or fail (0%).
 
 ### Schedule
 
