@@ -28,7 +28,7 @@ For more information, see the [Assignments](https://github.com/crahal/Intro_to_S
   * 11:10am BST -- Group 4 presentation
   * 11:25am BST -- Questions on Group 4 presentation
 
-  * 11:30am BST -- Group 1 presentation
-  * 11:45am BST -- Questions on Group 1 presentation
+  * 11:30am BST -- Group 5 presentation
+  * 11:45am BST -- Questions on Group 5 presentation
 
-  * 11:50am BST -- Conclusions, any questions on individual assignment.
+  * 11:50am BST -- Conclusions, any questions on individual assignment, best wishes!
